@@ -1,1 +1,6 @@
-"Minecraft Musket" by NaC9060 (https://sketchfab.com/3d-models/minecraft-musket-8fc737c7210f4306bf8ee59bf14d3f67), CC BY 4.0. Converted from GLB to a Java item model.
+"Minecraft Musket" by NaC9060 (https://sketchfab.com/models/8fc737c7210f4306bf8ee59bf14d3f67), CC BY 4.0. Converted from GLB to a Java item model.
+"Crossbow (Minecraft)" by Kosha_ (https://sketchfab.com/models/c071665dc11846ffb69665411cbad428), CC BY 4.0.
+"[ Minecraft ] Medieval Spear Low Poly" by HashtagLoulou (https://sketchfab.com/models/d0e99c9a9e33443cbbb1bd8a1b8d9e73), CC BY 4.0.
+"Hallbard" by DemonCat9228 (https://sketchfab.com/models/41d76951f1c342cabd4b8ce27db65f29), CC BY 4.0.
+"Polearm" by DemonCat9228 (https://sketchfab.com/models/87243fbf15d54c619bc7a5a614461fd9), CC BY 4.0.
+All converted from GLB to Java item models.
