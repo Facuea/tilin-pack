@@ -4,4 +4,7 @@
 "Dagger", "Rapier", "Hallbard", "Polearm" by DemonCat9228 (https://sketchfab.com/DemonCat9228), CC BY 4.0.
 "Battle Axe" by fringard.saliz (https://sketchfab.com/models/933548ed6cb74f63ad466611b1365991), CC BY 4.0.
 "[MINECRAFT] MACE" by BasicModel (https://sketchfab.com/models/d19ead90a2444a97ac8a89dbb4918ea5), CC BY 4.0.
+"Catapult" by pati (https://sketchfab.com/models/b24ee060c3af4c66a0af8a6321130002), CC BY 4.0.
+"Minecraft Scorpion Balista" by NZFawkes (https://sketchfab.com/models/6eb3f3e5897f4d859af928141818aa1d), Sketchfab Standard license.
+Cannon model from XV by phonon/xeth (https://github.com/phonon/minecraft-xc).
 All converted from GLB to Java item models.
