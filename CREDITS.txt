@@ -1,4 +1,7 @@
-"Minecraft Musket" by NaC9060 (https://sketchfab.com/models/8fc737c7210f4306bf8ee59bf14d3f67), CC BY 4.0. Converted from GLB to a Java item model.
+"Minecraft Musket" by NaC9060 (https://sketchfab.com/models/8fc737c7210f4306bf8ee59bf14d3f67), CC BY 4.0.
 "Crossbow (Minecraft)" by Kosha_ (https://sketchfab.com/models/c071665dc11846ffb69665411cbad428), CC BY 4.0.
-Melee weapons, shields, longbow: "Warfare Expanded" by mega7 (https://modrinth.com/datapack/warfare-expanded), Apache-2.0.
-Musket and crossbow converted from GLB to Java item models.
+"[ Minecraft ] 3D Iron Sword", "[ Minecraft ] Two handed Iron Sword", "Low Poly Medieval Longsword", "[ Minecraft ] Medieval Spear Low Poly", "[ Minecraft ] Iron Warhammer" by HashtagLoulou (https://sketchfab.com/HashtagLoulou), CC BY 4.0.
+"Dagger", "Rapier", "Hallbard", "Polearm" by DemonCat9228 (https://sketchfab.com/DemonCat9228), CC BY 4.0.
+"Battle Axe" by fringard.saliz (https://sketchfab.com/models/933548ed6cb74f63ad466611b1365991), CC BY 4.0.
+"[MINECRAFT] MACE" by BasicModel (https://sketchfab.com/models/d19ead90a2444a97ac8a89dbb4918ea5), CC BY 4.0.
+All converted from GLB to Java item models.
