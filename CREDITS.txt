@@ -3,4 +3,12 @@
 "[ Minecraft ] Medieval Spear Low Poly" by HashtagLoulou (https://sketchfab.com/models/d0e99c9a9e33443cbbb1bd8a1b8d9e73), CC BY 4.0.
 "Hallbard" by DemonCat9228 (https://sketchfab.com/models/41d76951f1c342cabd4b8ce27db65f29), CC BY 4.0.
 "Polearm" by DemonCat9228 (https://sketchfab.com/models/87243fbf15d54c619bc7a5a614461fd9), CC BY 4.0.
+"Dagger", "Long sword", "Broad sword", "Rapier" by DemonCat9228 (https://sketchfab.com/DemonCat9228), CC BY 4.0.
+"Iron Battle Axe" by EkusEz (https://sketchfab.com/models/8688b0b0c56d4df9b06930c01d189b17), CC BY 4.0.
+"[MINECRAFT] MACE" by BasicModel (https://sketchfab.com/models/d19ead90a2444a97ac8a89dbb4918ea5), CC BY 4.0.
+"[ Minecraft ] Iron Warhammer" by HashtagLoulou (https://sketchfab.com/models/512298176f554049a81132b3cc25804f), CC BY 4.0.
+"Cudgel_01(low-poly)" by arigura (https://sketchfab.com/models/098f1d1598384fda82a4704883187e00), CC BY 4.0, voxelized.
+"Spiked Club" by gyronic (https://sketchfab.com/models/206d18a8c1e94bb2bf4dda3d8b8f99e6), CC BY 4.0, voxelized.
+"Morgenstern" and "Lucerne Hammer" by Kanpai (https://sketchfab.com/models/025274179abc44098a751fca9d21ee50, https://sketchfab.com/models/7fc484949f5c47d4afb6f9030be77c73), CC BY 4.0, voxelized.
+"flail" by lukieglaze (https://sketchfab.com/models/6e29cdfbafe94459ab65c0beb822907e), CC BY 4.0, voxelized.
 All converted from GLB to Java item models.
