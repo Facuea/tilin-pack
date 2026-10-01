@@ -8,3 +8,4 @@
 "Minecraft Scorpion Balista" by NZFawkes (https://sketchfab.com/models/6eb3f3e5897f4d859af928141818aa1d), Sketchfab Standard license.
 Cannon model from XV by phonon/xeth (https://github.com/phonon/minecraft-xc).
 All converted from GLB to Java item models.
+"Horse Saddle Color Fix" by its author on Modrinth (https://modrinth.com/resourcepack/horse-saddle-color-fix), Apache License 2.0: horse, donkey, mule, skeleton and zombie horse saddle textures.
