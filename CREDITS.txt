@@ -9,3 +9,4 @@
 Cannon model from XV by phonon/xeth (https://github.com/phonon/minecraft-xc).
 All converted from GLB to Java item models.
 "Horse Saddle Color Fix" by its author on Modrinth (https://modrinth.com/resourcepack/horse-saddle-color-fix), Apache License 2.0: horse, donkey, mule, skeleton and zombie horse saddle textures.
+"Pixel Perfection Fidelity" by SourAlien, based on "Pixel Perfection" by XSSheep (https://modrinth.com/resourcepack/pixel-perfection-fidelity), CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): horse, donkey and mule coats and markings, leather and iron horse armor textures (unmodified).
