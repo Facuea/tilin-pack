@@ -41,5 +41,3 @@ CrownFall Bloques - textures from:
 
 
 "Thalyrus II" by ZachoPix, "New Wayukian", "Framed Glass" by Kai1907, "3D Medieval Iron Bars" by exotium and "Arcle's Medieval Containers" by ArcleBreeze, used with their authors' permission as the base for the remodelled stone bricks, blackstone, stained glass, iron bars, composter, cauldrons, grindstone, anvils, stonecutter (chiseling table) and barrel (redrawn at 16x in the pack palette; models reworked).
-"Many More Ores and Crafts" by Graclyxz (MIT): raw adamantite and raw platinum item textures, mirrored and recoloured for the native silver (crownfall:item/plata) and tin (crownfall:item/estano) items.
-"MiningMaster" by its authors (Apache-2.0): spider kunzite item texture, mirrored, recoloured and with a second crystal for saltpetre (crownfall:item/salitre).
