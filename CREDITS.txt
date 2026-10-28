@@ -6,3 +6,40 @@
 "[MINECRAFT] MACE" by BasicModel (https://sketchfab.com/models/d19ead90a2444a97ac8a89dbb4918ea5), CC BY 4.0.
 All converted from GLB to Java item models.
 "Horse Saddle Color Fix" by its author on Modrinth (https://modrinth.com/resourcepack/horse-saddle-color-fix), Apache License 2.0: horse, donkey, mule, skeleton and zombie horse saddle textures.
+"Medieval Paintings" by The Great ZIN (https://modrinth.com/mod/medieval-paintings), MIT License: the 62 medieval_paintings painting textures and names (variants defined in the crownfall_cuadros datapack).
+"Brewery Medieval" by Mitis & Prypyzdok (https://modrinth.com/resourcepack/brewery-medieval), MIT License: BreweryX drink models and textures.
+"Vintner" 1.2.0 by ZenithGB (https://modrinth.com/mod/vintner), CC0 1.0: grapevine growth stages and grapes (CrownFallCultivos uva).
+"Lovely Crops" (https://modrinth.com/mod/lovelycrops), MIT License: grape seeds.
+"JustFlax" (https://modrinth.com/mod/justflax), MPL-2.0: flax growth stages, flax and flax seeds (lino). Source of the original files: that project's page.
+"Rustic Delight" (https://modrinth.com/mod/rustic-delight), CC0 1.0: cotton growth stages, cotton boll and seeds.
+Barley, hops and hemp plants: made from the vanilla crop textures.
+"Haemorrhage" by Xires87 (https://modrinth.com/mod/haemorrhage), MIT License, Copyright (c) 2022 Xires87 (full text in licenses/haemorrhage-MIT.txt): bandage textures (XC venda de lino, venda con miel).
+"NiftyCarts" (https://modrinth.com/mod/niftycarts), MIT License, Copyright (c) 2019 MennoMax, (c) 2023 jmb19905 (full text in licenses/niftycarts-MIT.txt): cart models (XV arado, sembradora, segadora, carro de carga; reaper, seed drill and plough modified).
+"Farmer's Delight" by vectorwing (https://modrinth.com/mod/farmers-delight), MIT License, Copyright (c) 2020 vectorwing (full text in licenses/farmersdelight-MIT.txt): meal textures (CrownFallComidas).
+"Low-Poly Pirate Ship" by Chenuka Wijesundara (https://sketchfab.com/3d-models/low-poly-pirate-ship-8f204fde27cf43aeacdaef550799591c), CC-BY 4.0: hull lines, decks, masts, spars and sails the Carabela (XV ship) is rebuilt from (resourcepack/carabela.py); its textures are made from the vanilla block textures.
+"Cannon" by GGlecoco (https://sketchfab.com/3d-models/cannon-527b8a0934194a98a9df7fdc754f4d3f), CC-BY-NC 4.0 (non-commercial use only): the four cannons on the Carabela (resourcepack/modelos/canon_barco_referencia.glb).
+
+CrownFall Bloques - textures from:
+  Ashen 16x (Aim__Boot) - doors, torches: acacia_door, bamboo_door, birch_door, cherry_door, copper_door, crimson_door, dark_oak_door, exposed_copper_door, iron_door, jungle_door, mangrove_door, oak_door, oxidized_copper_door, pale_oak_door, spruce_door, warped_door, waxed_copper_door, waxed_exposed_copper_door, waxed_oxidized_copper_door, waxed_weathered_copper_door, weathered_copper_door, copper_torch, copper_wall_torch, soul_torch, soul_wall_torch, torch, wall_torch
+  Conquest_ - lanterns: copper_lantern, exposed_copper_lantern, lantern, oxidized_copper_lantern, soul_lantern, waxed_copper_lantern, waxed_exposed_copper_lantern, waxed_oxidized_copper_lantern, waxed_weathered_copper_lantern, weathered_copper_lantern
+  Excalibur (Maffhew) - fletching_table, smithing_table, glowstone, bricks, andesite, andesite_slab, andesite_stairs, andesite_wall, chiseled_stone_bricks, cracked_stone_bricks, infested_chiseled_stone_bricks, infested_cracked_stone_bricks, infested_mossy_stone_bricks, infested_stone, infested_stone_bricks, mossy_stone_brick_slab, mossy_stone_brick_stairs, mossy_stone_brick_wall, mossy_stone_bricks, polished_andesite, polished_andesite_slab, polished_andesite_stairs, stone, stone_brick_slab, stone_brick_stairs, stone_brick_wall, stone_bricks, stone_button, stone_pressure_plate, stone_slab, stone_stairs
+  Medieval Paintings resource pack and mod (The Great ZIN, mod under MIT license) - paintings
+"Epic Knights: Antique Legacy", "Epic Knights: Addon" and "Epic Knights: Slavic Armory" (Epic Knights family by Magistu and addon authors, https://modrinth.com/mod/epic-knights-shields-armor-and-weapons), used with their authors' permission: helmet models and armour textures, retouched for CrownFall (resourcepack/epic_knights.py).
+"Conquest Medieval Arms" (Conquest Studios, https://modrinth.com/mod/conquests-medieval-armors-and-weapons) and "Fantasy Armor" (Kenddie, https://modrinth.com/mod/fantasy_armor), used with their authors' permission: helmet models, armour textures, shields and weapons, from a Blockbench conversion by a friend of the server (resourcepack/conquest_fantasy.py).
+
+"M16x" resource pack (MIT, https://modrinth.com/resourcepack/m16x): anvil textures and models, and the textures of the CrownFall meals (resourcepack/comidas_texturas.py).
+
+"Dusty Decorations" by its authors (MIT, https://modrinth.com/mod/dusty-decorations): furniture models and textures (resourcepack/decoracion.py), and the burlap item texture used for the cloth material (crownfall:item/material/tela).
+
+"Berserker Axe" from "10 Axes Model" by Gintoki (itch.io, https://gintoki1234.itch.io/10-axes-model, CC BY 4.0): shape of the berserker axe, rebuilt in the team's battle axe style (resourcepack/berserker.py).
+
+"Hand Crossbow" from "10 Bows and Cross Bows" by Gintoki (itch.io, https://gintoki1234.itch.io/10-bows-and-cross-bows, CC BY 4.0): shape and proportions of the wooden crossbow, rebuilt with a straight stock in the team crossbow's style (resourcepack/ballesta_madera.py).
+"Slavic battle ax" by krivolap.denis (Sketchfab, CC BY 4.0): shape and proportions of the two-axe weapon's axe (the double axe), rebuilt in the team's battle axe style (resourcepack/hacha_eslava.py).
+
+
+"Banderas" (CrownFall, 45 nations in five presentations): supports adapted from Ritchie's Betsy Ross by rbasamoyai (MIT, https://github.com/Wagers-of-Industrial-Warfare/BetsyRoss); flag images from Wikimedia Commons, each with its own author and licence (CC BY-SA and others), listed in CREDITOS_BANDERAS.txt (resourcepack/banderas.py).
+
+
+"Thalyrus II" by ZachoPix, "New Wayukian", "Framed Glass" by Kai1907, "3D Medieval Iron Bars" by exotium and "Arcle's Medieval Containers" by ArcleBreeze, used with their authors' permission as the base for the remodelled stone bricks, blackstone, stained glass, iron bars, composter, cauldrons, grindstone, anvils, stonecutter (chiseling table) and barrel (redrawn at 16x in the pack palette; models reworked).
+"Many More Ores and Crafts" by Graclyxz (MIT): raw adamantite and raw platinum item textures, mirrored and recoloured for the native silver (crownfall:item/plata) and tin (crownfall:item/estano) items.
+"MiningMaster" by its authors (Apache-2.0): spider kunzite item texture, mirrored, recoloured and with a second crystal for saltpetre (crownfall:item/salitre).
