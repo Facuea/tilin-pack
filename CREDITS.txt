@@ -41,3 +41,5 @@ CrownFall Bloques - textures from:
 
 
 "Thalyrus II" by ZachoPix, "New Wayukian", "Framed Glass" by Kai1907, "3D Medieval Iron Bars" by exotium and "Arcle's Medieval Containers" by ArcleBreeze, used with their authors' permission as the base for the remodelled stone bricks, blackstone, stained glass, iron bars, composter, cauldrons, grindstone, anvils, stonecutter (chiseling table) and barrel (redrawn at 16x in the pack palette; models reworked).
+
+"Medieval-Craft (Medieval 16x)" (https://modrinth.com/resourcepack/m16x), MIT License: compass textures (textures/item/compass_00-31).
